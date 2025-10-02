@@ -1,0 +1,2 @@
+# Coherence Checker: A Multi-Approach Framework for Next Sentence Prediction
+A multi-phase project designed to evaluate and improve sentence coherence using advanced NLP techniques. This repository explores fine-tuning, prompt engineering, and retrieval-augmented generation (RAG) to build a robust Next Sentence Prediction (NSP) tool, particularly aimed at assisting young children and non-native English speakers in constructing coherent sentences.
